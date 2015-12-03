@@ -1,1 +1,1 @@
-# calabash-ios-example
+# Automation Test sử dụng Calabash-iOS
